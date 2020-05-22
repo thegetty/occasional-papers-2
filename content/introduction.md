@@ -12,6 +12,7 @@ Before opening this inquiry into framing, two observations are worth recording. 
 
 
 This paper has two purposes and two corresponding sections. The first section addresses the matter of framing or of selecting which policy lens or lenses through which to view the threats to cultural protection. (The narrative uses the terms “frames” and “lenses” interchangeably.) It addresses briefly the five lenses, noted above, that have already been considered. The second section focuses on the notion of cultural genocide and considers how it might, or might not, be applicable to contemporary policy dilemmas.
+
 Section 1 opens with a brief explanation of why the framing of the nature of policy challenges is---to those who make and carry out policy choices---much more than a labeling exercise. Framing a policy issue has lasting implications for which actors, institutions, stakeholders, and policy tools are likely to be invoked. It influences the setting of priorities and helps shape perceptions about how collective action dilemmas should be resolved, that is, who has the authority and responsibility to act. The section introduces---rather quickly---the five lenses that have been employed in the realm of cultural heritage protection. While each has some merit, the very range of frames already utilized illustrates the difficulty of finding the perfect fit.
 
 
