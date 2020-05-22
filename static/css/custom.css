@@ -4,26 +4,19 @@
   letter-spacing: .75px;
   font-weight: 600;
 }
-  
+
 /* Adjusting navbar display */
 .quire-progress-bar {
-  background-color: #1e3253;
-  background-color: #3d5a88;
+  background-color: #104143;
   height: 6px;
-}
-#cover .quire-progress-bar {
-  background-color: #102343;
-}
-#cover .quire-progress-bar div {
-  background-color: #3f5479;
 }
 .quire-progress-bar div {
   height: 6px;
-  background-color: #768fb8;
+  background-color: #3f7978;
 }
 .quire-menu__formats h6 {
-  color: #647a9f;
-  border-color: #647a9f;
+  color: #649b9f;
+  border-color: #649b9f;
 }
 
 /* Using Source Sans for better font-weight match */
@@ -32,9 +25,9 @@
   font-size: 4rem;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
-  margin-bottom: 0;  
+  margin-bottom: 0;
   background-color: inherit;
-  color: #000f27;
+  color: #002227;
 }
 
 @media screen {
@@ -165,10 +158,10 @@
 }
 .quire-cover__more .hero-more {
   background-color: #5a6283;
-  background-color: #647a9f;
+  background-color: #649b9f;
 }
 .quire-cover .quire-page__content .container.is-fluid .content {
-  color: #000f27;
+  color: #002227;
 }
 
 @media screen and (max-width: 900px) {
@@ -274,7 +267,7 @@
   .title-page {
     text-align: left;
     padding-left: 1.375in;
-    padding-right: 1.125in;  
+    padding-right: 1.125in;
     padding-top: .875in;
   }
   .title-page .series-name,
@@ -324,7 +317,7 @@
     margin-top: .5in;
   }
   #copyright .quire-page__content {
-    text-align: left; 
+    text-align: left;
     max-width: 4.25in;
     margin-left: 0;
   }
@@ -345,7 +338,7 @@
     background-color: #000;
     width: 3in;
     height: .5pt;
-  }  
+  }
   #contents .quire-contents-list,
   #contents .quire-page__header__title {
     margin-left: 1.75in;
@@ -402,10 +395,10 @@
 
 /* Overriding default color */
 strong {
-  color: #000f27;
+  color: #002227;
 }
 .backmatter .quire-copyright__icon * {
-  fill: #000f27;
+  fill: #002227;
 }
 
 /* Styling copyright and about pages */
@@ -435,7 +428,7 @@ strong {
 }
 @media screen {
   .quire-page__content .content blockquote {
-    padding: 0; 
+    padding: 0;
   }
 }
 .quire-page__content .content blockquote + p {
