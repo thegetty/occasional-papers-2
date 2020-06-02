@@ -111,33 +111,41 @@
 }
 .hero.is-fullheight .hero-body {
   padding: 0;
+  height: calc(95vh - 6rem);
+  justify-content: space-between;
 }
 .quire-cover__hero-body.hero-body {
   flex-direction: column;
   margin-left: 50%;
   margin-right: 5%;
   margin-top: 1.5rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 .quire-cover__hero .series-info {
   color: #fff;
   text-transform: uppercase;
   font-size: 1.35vw;
   letter-spacing: .5px;
-  padding-right: 25%;
   font-family: "Archivo Narrow", sans-serif;
 }
 .quire-cover__hero .series-info .series-name {
   font-weight: 700;
   margin-bottom: 1em;
+  float: left;
+  width: 70%;
 }
 .quire-cover__hero .series-info .series-number,
 .quire-cover__hero .series-info .pub-date {
   letter-spacing: 1px;
 }
+.quire-cover__hero .series-info .series-number-and-date {
+  float: right;
+  width: 25%;
+}
+
 .quire-cover__hero .title {
   font-size: 5.5vw;
-  margin-top: 1.25em;
+  margin: 0;
 }
 .quire-cover__hero .subtitle {
   font-size: 3vw;
@@ -148,7 +156,9 @@
   font-size: 1.9vw;
   text-transform: uppercase;
   letter-spacing: .5px;
-  margin-top: 5em;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  width: 100%;
 }
 .quire-cover__hero .contributor .small {
   font-size: .65em;
@@ -162,6 +172,10 @@
 }
 .quire-cover .quire-page__content .container.is-fluid .content {
   color: #002227;
+}
+.quire-cover__more .hero-more svg {
+  margin-top: .2rem;
+  margin-left: .2rem;
 }
 
 @media screen and (max-width: 900px) {
