@@ -11,7 +11,7 @@ toc: false
 
 This publication has been funded by the President’s International Council, J. Paul Getty Trust.
 
-© 2019 J. Paul Getty Trust
+© 2018, 2020 J. Paul Getty Trust
 
 ![cc-by-nc](/img/cc-by-nc.png)
 
@@ -22,18 +22,17 @@ The text of this work is licensed under the Creative Commons Attribution-NonComm
 Los Angeles, California 90049-1682<br />
 [www.getty.edu/publications](http://www.getty.edu/publications)
 
-ISBN 978-1-60606-639-3 (online)<br />
-ISBN 978-1-60606-640-9 (ebook)
+ISBN 978-1-60606-673-7 (online)<br />
+ISBN 978-1-60606-674-4 (ebook)
 
 Also in the series:
 
-[“Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones”](http://getty.edu/publications/pdfs/CulturalCleansing_Weiss_Connelly.pdf) <br />Thomas G. Weiss and Nina Connelly
+[“Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones”](https://www.getty.edu/publications/occasional-papers-1/) <br />Thomas G. Weiss and Nina Connelly
 
-[“Cultural Genocide and the Protection of Cultural Heritage”](http://getty.edu/publications/pdfs/CulturalGenocide_Luck.pdf) <br />Edward C. Luck 
+["Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection"](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
 
 ---
 
-Cover: A boy stands at the entrance of a destroyed building in Mosul, Iraq, March 14, 2018. Photo: Ahmad Al-Rubaye / Getty Images
+Cover: Palmyra’s Destroyed Heritage: The Historic and Modern Parts of Palmyra, Syria, April 21, 2016. © Mikhail Voskresenskiy / Sputnik via AP
 
 {{< /q-class >}}
-

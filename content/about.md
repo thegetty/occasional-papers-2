@@ -7,8 +7,8 @@ search: false
 ---
 
 In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq, and Timbuktu, the J.&#160;Paul Getty Trust convened a meeting at the British Academy in London to discuss the need for an international framework to protect cultural heritage in zones of armed conflict. To further explore these questions, the Trust subsequently launched the series J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy.
- 
-In this third issue of the series, philosophers Helen Frowe and Derek Matravers pose a key question: what is the appropriate response to attacks on cultural heritage? They assert that we must more carefully consider the morality of using deadly military force to protect cultural heritage. Frowe and Matravers question the leading argument that there is a causal relationship between the destruction of cultural heritage and genocide, and they further argue that the defense of heritage must not be treated with the same weight or urgency—and thus should not be protected according to the same international policies—as the defense of human lives. By calling for expanded theory, empirical data, and the consideration of morality in the crafting of international resolutions, Frowe and Matravers present a compelling, thoughtful critique that stimulates debate on this critical topic.
+
+In this second issue of the series, Edward C. Luck, the Arnold A. Saltzman Professor of Professional Practice and Director of the Specialization in International Conflict Resolution in Columbia University’s School of International and Public Affairs (SIPA), explores the importance of terminology, framing, and context when developing an international policy for protecting cultural heritage. Luck outlines the five conceptual frameworks most commonly used when defining this type of policy---legal, accountability, security, counterterrorism, and atrocity prevention. He then introduces cultural genocide as an additional lens through which to examine the destruction of cultural heritage. Raising difficult questions about whether cultural destruction and the loss of human life can be addressed together, Luck traces the history of this term and the possibilities, and potential pitfalls, in its application to policy debates. “Cultural Genocide and the Protection of Cultural Heritage” challenges readers to consider the substantial political impact that terminology and framing can have when discussing cultural heritage protection.
 
 {{< q-class "backmatter" >}}
 
@@ -16,33 +16,38 @@ In this third issue of the series, philosophers Helen Frowe and Derek Matravers 
 
 ### Chicago
 
-Frowe, Helen, and Derek Matravers. “Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 3 (2019). http://getty.edu/publications/occasional-papers-3/.
+Luck, Edward C. “Cultural Genocide and the Protection of Cultural Heritage.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 2 (2018). http://getty.edu/publications/occasional-papers-2/.
 
 ### MLA
 
-Frowe, Helen, and Derek Matravers. “Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 3, 2019. http://getty.edu/publications/occasional-papers-3/. Accessed <span class="cite-current-date">Aug. 29, 2019</span>.
+Luck, Edward C. “Cultural Genocide and the Protection of Cultural Heritage.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 2, 2018. http://getty.edu/publications/occasional-papers-2/. Accessed <span class="cite-current-date">Aug. 29, 2019</span>.
 
 ### Permanent URL
 
-http://getty.edu/publications/occasional-papers-3/
+http://getty.edu/publications/occasional-papers-2/
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/occasional-papers-3/, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/occasional-papers-2/, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-### October 15, 2019
-  
+### 2018
+
   - First edition
+
+### July 15, 2020
+
+  - Migration of PDF edition to digital platform
+  - Release of new ebook edition
 
 ## Other Formats
 
-  - [PDF](/downloads/FroweMatravers_ConflictandCulturalHeritage.pdf)
-  - [EPUB](/downloads/FroweMatravers_ConflictandCulturalHeritage.epub)
-  - [MOBI/Kindle](/downloads/FroweMatravers_ConflictandCulturalHeritage.mobi)
+  - [PDF](/downloads/Luck_CulturalGenocide.pdf)
+  - [EPUB](/downloads/Luck_CulturalGenocide.epub)
+  - [MOBI/Kindle](/downloads/Luck_CulturalGenocide.mobi)
 
 ## Copyright
 
-© 2019 J. Paul Getty Trust
+© 2018, 2020 J. Paul Getty Trust
 
 {{< q-class "cc-icon" >}}
 <svg class="quire-copyright__icon">
@@ -73,17 +78,17 @@ This publication has been funded by the President’s International Council, J. 
 Los Angeles, California 90049-1682<br />
 [www.getty.edu/publications](http://www.getty.edu/publications)
 
-ISBN 978-1-60606-639-3 (online)<br />
-ISBN 978-1-60606-640-9 (ebook)
+ISBN 978-1-60606-673-7 (online)<br />
+ISBN 978-1-60606-674-4 (ebook)
 
 Also in the series:
 
-[“Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones”](http://getty.edu/publications/pdfs/CulturalCleansing_Weiss_Connelly.pdf) <br />Thomas G. Weiss and Nina Connelly
+[“Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones”](https://www.getty.edu/publications/occasional-papers-1/) <br />Thomas G. Weiss and Nina Connelly
 
-[“Cultural Genocide and the Protection of Cultural Heritage”](http://getty.edu/publications/pdfs/CulturalGenocide_Luck.pdf) <br />Edward C. Luck 
+["Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection"](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
 
 ---
 
-Cover: A boy stands at the entrance of a destroyed building in Mosul, Iraq, March 14, 2018. Photo: Ahmad Al-Rubaye / Getty Images
+Cover: Palmyra’s Destroyed Heritage: The Historic and Modern Parts of Palmyra, Syria, April 21, 2016. © Mikhail Voskresenskiy / Sputnik via AP
 
 {{< /q-class >}}
