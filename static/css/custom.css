@@ -372,9 +372,6 @@
 }
 
  /* Style footnotes using custom q-note shortcode */
- .quire-citation {
-   display: inline-block;
- }
  @media print {
    .content sup.quire-citation {
      top: 1.5pt;
