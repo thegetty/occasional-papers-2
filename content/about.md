@@ -10,17 +10,17 @@ In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq
 
 In this second issue of the series, Edward C. Luck, the Arnold A. Saltzman Professor of Professional Practice and Director of the Specialization in International Conflict Resolution in Columbia University’s School of International and Public Affairs (SIPA), explores the importance of terminology, framing, and context when developing an international policy for protecting cultural heritage. Luck outlines the five conceptual frameworks most commonly used when defining this type of policy---legal, accountability, security, counterterrorism, and atrocity prevention. He then introduces cultural genocide as an additional lens through which to examine the destruction of cultural heritage. Raising difficult questions about whether cultural destruction and the loss of human life can be addressed together, Luck traces the history of this term and the possibilities, and potential pitfalls, in its application to policy debates. “Cultural Genocide and the Protection of Cultural Heritage” challenges readers to consider the substantial political impact that terminology and framing can have when discussing cultural heritage protection.
 
-{{< q-class "backmatter" >}}
+<div class="backmatter">
 
 ## Citation Information
 
 ### Chicago
 
-Luck, Edward C. “Cultural Genocide and the Protection of Cultural Heritage.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 2 (2018). http://getty.edu/publications/occasional-papers-2/.
+{{< q-citethis type="chicago" range="publication" >}}
 
 ### MLA
 
-Luck, Edward C. “Cultural Genocide and the Protection of Cultural Heritage.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 2, 2018. http://getty.edu/publications/occasional-papers-2/. Accessed <span class="cite-current-date">Aug. 29, 2019</span>.
+{{< q-citethis type="mla" range="publication" >}}
 
 ### Permanent URL
 
@@ -91,4 +91,4 @@ Also in the series:
 
 Cover: Palmyra’s Destroyed Heritage: The Historic and Modern Parts of Palmyra, Syria, April 21, 2016. © Mikhail Voskresenskiy / Sputnik via AP
 
-{{< /q-class >}}
+</div>

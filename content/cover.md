@@ -4,6 +4,7 @@ weight: 1
 menu: false
 epub: false
 type: cover
+class: type-left with-shading
 slug: .
 toc: false
 image: cover/op2--ap--147720935219.jpg
