@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Cultural Genocide and the Protection of Cultural Heritage
-subtitle: 
+subtitle:
 reading_line:
 short_title:
 
@@ -32,6 +32,7 @@ language: en
 pub_type: online # book | journal-periodical | other
 identifier:
   isbn: 978-1-60606-673-7
+  url: https://www.getty.edu/publications/occasional-papers-2/
 
 publisher:
   - name: Getty Publications
@@ -48,10 +49,12 @@ contributor_as_it_appears: "Edward C. Luck <span class='small'></span>"
 contributor:
   - id: ecluck
     type: primary
+    role: editor
     file_as: 1
     first_name: Edward C.
     last_name: Luck
     bio: "**Edward C. Luck** is Arnold A. Saltzman Professor of Professional Practice and Director of the Specialization in International Conflict Resolution, School of International and Public Affairs (SIPA), Columbia University. From 2008 to 2012, he served as United Nations assistant secretary-general and as the first special adviser to the UN secretary-general for the responsibility to protect (R2P). In that capacity, he was responsible for the conceptual, political, institutional, and operational development of R2P and for its application to a number of situations in which atrocity crimes appeared to be imminent or were underway. He was the architect of the secretary-general’s 2009 three-pillar strategy for implementing R2P that remains the accepted formulation of R2P principles and practice, and he drafted all of the secretary-general’s related reports, speeches, and statements over those years. Luck is coauthor, with Alex J. Bellamy, of *The Responsibility to Protect: From Promise to Practice* (Cambridge: Polity Books, 2018). A prolific author, Luck has written extensively on the origins, evolution, and reform of the United Nations, on U.S.–UN relations, and on the UN Security Council, as well as a range of other international security and humanitarian issues. In addition to holding a number of academic posts, he served for a decade as president and CEO of the United Nations Association of the USA. He graduated from Dartmouth College with high distinction in international relations and has a series of graduate degrees from Columbia University, including a PhD in political science."
+
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
