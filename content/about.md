@@ -28,24 +28,28 @@ http://getty.edu/publications/occasional-papers-2/
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/occasional-papers-2/, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/occasional-papers-2/](https://github.com/thegetty/occasional-papers-2/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-### 2018
+### September 21, 2018
 
-  - First edition
+  - First PDF edition
 
-### July 15, 2020
+### September 8, 2020
 
-  - Migration of PDF edition to digital platform
+  - Migration to digital platform
   - Release of new ebook edition
 
 ## Other Formats
 
   - [PDF](/downloads/Luck_CulturalGenocide.pdf)
   - [EPUB](/downloads/Luck_CulturalGenocide.epub)
-  - [MOBI/Kindle](/downloads/Luck_CulturalGenocide.mobi)
+  - [Kindle/MOBI](/downloads/Luck_CulturalGenocide.mobi)
 
 ## Copyright
+
+This publication was created using Quire™, a multiformat publishing tool from Getty.
+
+This publication has been funded by the President’s International Council, J. Paul Getty Trust.
 
 © 2018, 2020 J. Paul Getty Trust
 
@@ -71,21 +75,21 @@ Any revisions or corrections made to this publication after the first edition da
 
 This text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). The cover image is reproduced with the permission of the rights holder acknowledged in the caption and is expressly excluded from the CC BY-NC license covering the rest of this publication. The image may not be reproduced, copied, transmitted, or manipulated without consent from the owner, who reserves all rights.
 
-This publication has been funded by the President’s International Council, J. Paul Getty Trust.
-
-**Published by Getty Publications**<br />
+**Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
-[www.getty.edu/publications](http://www.getty.edu/publications)
+[getty.edu/publications](http://www.getty.edu/publications)
 
 ISBN 978-1-60606-673-7 (online)<br />
 ISBN 978-1-60606-674-4 (ebook)
 
 Also in the series:
 
-[“Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones”](https://www.getty.edu/publications/occasional-papers-1/) <br />Thomas G. Weiss and Nina Connelly
+[*Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones*](https://www.getty.edu/publications/occasional-papers-1/) <br />Thomas G. Weiss and Nina Connelly
 
-["Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection"](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
+[*Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
+
+[*Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*](https://www.getty.edu/publications/occasional-papers-4/) <br />Edited by James Cuno and Thomas G. Weiss
 
 ---
 
