@@ -6,9 +6,9 @@ epub: false
 search: false
 ---
 
-In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq, and Timbuktu, the J.&#160;Paul Getty Trust convened a meeting at the British Academy in London to discuss the need for an international framework to protect cultural heritage in zones of armed conflict. To further explore these questions, the Trust subsequently launched the series J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy.
+In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq, and Timbuktu, the J.&#160;Paul Getty Trust convened a meeting at the British Academy in London to discuss the need for an international framework to protect cultural heritage in zones of armed conflict. To further explore these questions, the Trust subsequently launched the *J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy*.
 
-In this second issue of the series, Edward C. Luck, the Arnold A. Saltzman Professor of Professional Practice and Director of the Specialization in International Conflict Resolution in Columbia University’s School of International and Public Affairs (SIPA), explores the importance of terminology, framing, and context when developing an international policy for protecting cultural heritage. Luck outlines the five conceptual frameworks most commonly used when defining this type of policy---legal, accountability, security, counterterrorism, and atrocity prevention. He then introduces cultural genocide as an additional lens through which to examine the destruction of cultural heritage. Raising difficult questions about whether cultural destruction and the loss of human life can be addressed together, Luck traces the history of this term and the possibilities, and potential pitfalls, in its application to policy debates. “Cultural Genocide and the Protection of Cultural Heritage” challenges readers to consider the substantial political impact that terminology and framing can have when discussing cultural heritage protection.
+In this second issue, Edward C. Luck, the Arnold A. Saltzman Professor of Professional Practice and Director of the Specialization in International Conflict Resolution in Columbia University’s School of International and Public Affairs (SIPA), explores the importance of terminology, framing, and context when developing an international policy for protecting cultural heritage. Luck outlines the five conceptual frameworks most commonly used when defining this type of policy---legal, accountability, security, counterterrorism, and atrocity prevention. He then introduces cultural genocide as an additional lens through which to examine the destruction of cultural heritage. Raising difficult questions about whether cultural destruction and the loss of human life can be addressed together, Luck traces the history of this term and the possibilities, and potential pitfalls, in its application to policy debates. “Cultural Genocide and the Protection of Cultural Heritage” challenges readers to consider the substantial political impact that terminology and framing can have when discussing cultural heritage protection.
 
 <div class="backmatter">
 
@@ -24,7 +24,7 @@ In this second issue of the series, Edward C. Luck, the Arnold A. Saltzman Profe
 
 ### Permanent URL
 
-http://getty.edu/publications/occasional-papers-2/
+https://getty.edu/publications/occasional-papers-2/
 
 ## Revision History
 
@@ -73,7 +73,7 @@ This publication has been funded by the President’s International Council, J. 
 </svg>
 {{< /q-class >}}
 
-This text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). The cover image is reproduced with the permission of the rights holder acknowledged in the caption and is expressly excluded from the CC BY-NC license covering the rest of this publication. The image may not be reproduced, copied, transmitted, or manipulated without consent from the owner, who reserves all rights.
+This text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). The cover image is reproduced with the permission of the rights holder acknowledged in the caption and is expressly excluded from the CC BY-NC license covering the rest of this publication. The image may not be reproduced, copied, transmitted, or manipulated without consent from the owner, who reserves all rights.
 
 **Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />
@@ -85,11 +85,11 @@ ISBN 978-1-60606-674-4 (ebook)
 
 Also in the series:
 
-[*Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones*](https://www.getty.edu/publications/occasional-papers-1/) <br />Thomas G. Weiss and Nina Connelly
+[“Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones”](https://www.getty.edu/publications/occasional-papers-1/) <br />Thomas G. Weiss and Nina Connelly
 
-[*Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
+[“Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection”](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
 
-[*Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*](https://www.getty.edu/publications/occasional-papers-4/) <br />Edited by James Cuno and Thomas G. Weiss
+[“Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict”](https://www.getty.edu/publications/occasional-papers-4/) <br />Edited by James Cuno and Thomas G. Weiss
 
 ---
 
