@@ -1,4 +1,4 @@
-This is the repository for “Cultural Genocide and the Protection of Cultural Heritage,” by Edward C. Luck. This is the first paper in the *J. Paul Getty Trust Occasional Papers in Cultural Heritage Policy* and was first published September 21, 2018, by Getty Publications. It is available online at [http://www.getty.edu/publications/occasional-papers-2/](http://www.getty.edu/publications/occasional-papers-2/) and may be downloaded free of charge in multiple formats.
+This is the repository for “Cultural Genocide and the Protection of Cultural Heritage,” by Edward C. Luck. This is the second paper in the *J. Paul Getty Trust Occasional Papers in Cultural Heritage Policy* and was first published September 21, 2018, by Getty Publications. It is available online at [http://www.getty.edu/publications/occasional-papers-2/](http://www.getty.edu/publications/occasional-papers-2/) and may be downloaded free of charge in multiple formats.
 
 ## About the Book
 
