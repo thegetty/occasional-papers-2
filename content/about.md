@@ -37,7 +37,7 @@ Any revisions or corrections made to this publication after the first edition da
 ### September 8, 2020
 
   - Migration to digital platform
-  - Release of new ebook edition
+  - Release of new e-book edition
 
 ## Other Formats
 
@@ -81,7 +81,7 @@ Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications)
 
 ISBN 978-1-60606-673-7 (online)<br />
-ISBN 978-1-60606-674-4 (ebook)
+ISBN 978-1-60606-674-4 (e-book)
 
 Also in the series:
 
