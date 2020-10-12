@@ -49,7 +49,6 @@ contributor_as_it_appears: "Edward C. Luck"
 contributor:
   - id: ecluck
     type: primary
-    role: editor
     file_as: 1
     first_name: Edward C.
     last_name: Luck
